@@ -1,0 +1,44 @@
+.header_title {
+    background-color: #64cc7b;
+    color: white;
+    text-align: center;
+    width: 100%;
+    height: 80px;
+    line-height: 80px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.contentform {
+    margin: 20px 0px;
+    font-family: tahoma;
+}
+
+.hang2 {
+    margin: 40px 0px;
+}
+
+.hang2_title {
+    margin-top: 20px;
+    width: 300px;
+    text-align: center;
+}
+
+.hang2_title_phone {
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+.tentitle {
+    color: red;
+}
+
+.contentinput {
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid black;
+    border-radius: 0px;
+}
+
+.icon {
+    margin-left: 100px;
+}
